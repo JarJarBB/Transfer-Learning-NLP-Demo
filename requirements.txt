@@ -1,0 +1,8 @@
+transformers
+pandas
+torch
+sentencepiece
+numpy<2.0
+sacremoses
+datasets
+accelerate>=0.26.0
