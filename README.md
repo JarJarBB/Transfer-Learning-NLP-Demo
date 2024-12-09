@@ -4,7 +4,7 @@ This demo shows how to fine-tune a translation model. In this case, the NLP mode
 
 The expression "to ride Shanks' mare,” which means "to go by foot,” is very uncommon and unknown to most translation models, including the base model used in this demo. However, after the fine-tuning is completed, the AI model is capable of accurately translating the idiom.
 
-## Install Modules
+### Install Modules
 
 ```bash
 pip3 install -r requirements.txt
